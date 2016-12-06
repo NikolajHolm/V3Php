@@ -1,0 +1,42 @@
+.noSidePadding {
+	padding: 0;
+}
+
+header {
+	
+}
+
+header img {
+	width: 100%;
+}
+
+nav {
+	padding-left: 2em;
+	font-size: 1.5em;
+}
+
+.text-right{
+	float:right;
+	padding-right: 2em;
+}
+
+ul li label {
+	padding-left: 1em;
+	padding-right: 1em;
+	color: #999d9d;
+}
+
+ul li input {
+	width: 150px;
+	margin-top: 5px;
+	padding: 3px;
+}
+
+.login {
+	width: 100%;
+}
+
+main article img {
+	padding-top: 2em;
+	transform: scale(1, 1);
+}
